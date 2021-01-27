@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Prime or not to Prime", "Prime or not to Prime\Prime or not to Prime.pyproj", "{5CD7C04D-027D-474E-9117-BFA1AB334642}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CD7C04D-027D-474E-9117-BFA1AB334642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CD7C04D-027D-474E-9117-BFA1AB334642}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA02ED24-4F99-4142-A5B2-F0480DF57D79}
+	EndGlobalSection
+EndGlobal
